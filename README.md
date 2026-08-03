@@ -4,7 +4,7 @@
 Autor: **Jacob Delgado Hidalgo** · Calificación: Sobresaliente · 2025–2026
 
 [![Dashboard en vivo](https://img.shields.io/badge/Power_BI-Dashboard_interactivo-F2C811?logo=powerbi&logoColor=black)]([TU_ENLACE_AQUI](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/An%C3%A1lisis%20Multidimensional%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf))
-[![Memoria PDF](https://img.shields.io/badge/TFM-Memoria_completa_(PDF)-informational)](./Análisis%20Multidimensional%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf))]
+[![Memoria PDF](https://img.shields.io/badge/TFM-Memoria_completa_(PDF)-informational)](./Análisis%20Multidimensional%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf)
 
 ---
 
@@ -37,35 +37,18 @@ El proyecto cubre el ciclo completo: desde la extracción y limpieza de datos br
 
 ![Vista previa del dashboard](./docs/dashboard_preview.png)
 
-*(Sustituye la imagen y el enlace anteriores por los tuyos una vez publiques el informe con "Publicar en la Web" desde Power BI.)*
 
 ## 📄 Memoria completa
 
-La memoria completa del TFM (101 páginas) está disponible en [`/docs/TFM_Jacob_Delgado.pdf`](./docs/TFM_Jacob_Delgado.pdf), incluyendo marco teórico, metodología detallada, resultados y conclusiones.
-
-## 🗂️ Estructura del repositorio
-
-```
-├── docs/
-│   ├── TFM_Jacob_Delgado.pdf        # Memoria completa
-│   └── dashboard_preview.png        # Captura del dashboard
-├── etl/
-│   └── ...                          # Scripts de extracción y transformación
-├── sql/
-│   └── ...                          # Definición del Data Warehouse (esquema copo de nieve)
-├── analysis/
-│   ├── clustering_kmeans.R          # Segmentación de municipios
-│   └── regresion_lineal.R           # Modelo de regresión y diagnósticos
-├── dashboard/
-│   └── mercado_residencial.pbix     # Archivo Power BI
-└── README.md
-```
-
-*(Ajusta esta estructura a como tengas realmente organizados tus archivos.)*
+La memoria completa del TFM (101 páginas) está disponible en [![Memoria PDF](https://img.shields.io/badge/TFM-Memoria_completa_(PDF)-informational)](./Análisis%20Multidimensional%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf), situándose en los anexos capturas del dashboard y los 
+códigos de R para clustering, regresión e imputación de datos entre otros
 
 ## 🔍 Principales hallazgos
 
-- [Añade 2-3 conclusiones clave del TFM, en una línea cada una — son las que más impacto generan al lector que no va a leer las 101 páginas.]
+- El paso del tiempo y la densidad de vivienda vacacional son los factores que más explican el aumento de precios, por encima de la renta o el desempleo.
+- La presión turística, especialmente a través del incremento de viviendas vacacionales, tiene un impacto directo en la reducción de la oferta residencial y el encarecimiento tanto del alquiler como de la compraventa.
+- El análisis por clústeres permite segmentar municipios según su poder adquisitivo y desempleo y adaptar políticas públicas a realidades locales, superando el enfoque de tratar el territorio como un bloque homogéneo.
+- Los modelos predictivos muestran que cada punto porcentual de aumento en la densidad de vivienda vacacional incrementa el precio de compraventa en un 1,34% y el de alquiler en un 0,60%.
 
 ## 🛠️ Tecnologías
 
