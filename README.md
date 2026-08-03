@@ -4,7 +4,7 @@
 Autor: **Jacob Delgado Hidalgo** · Calificación: Sobresaliente · 2025–2026
 
 [![Dashboard en vivo](https://img.shields.io/badge/Power_BI-Dashboard_interactivo-F2C811?logo=powerbi&logoColor=black)](TU_ENLACE_AQUI)
-[![Memoria PDF](https://img.shields.io/badge/TFM-Memoria_completa_(PDF)-informational)](./docs/TFM_Jacob_Delgado.pdf)
+[![Memoria PDF]([https://img.shields.io/badge/TFM-Memoria_completa_(PDF)-informational)](./docs/TFM_Jacob_Delgado.pdf](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/An%C3%A1lisis%20Multidimensional%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf))
 
 ---
 
