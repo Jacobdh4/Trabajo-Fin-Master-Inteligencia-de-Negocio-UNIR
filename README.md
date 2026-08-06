@@ -3,7 +3,8 @@
 **Trabajo de Fin de Máster** — Máster en Inteligencia de Negocio y Análisis de Datos, UNIR
 Autor: **Jacob Delgado Hidalgo** · Calificación: Sobresaliente · 2025–2026
 
-[![Dashboard en vivo](https://img.shields.io/badge/Power_BI-Dashboard_interactivo-F2C811?logo=powerbi&logoColor=black)]([TU_ENLACE_AQUI](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/An%C3%A1lisis%20Multidimensional%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf))
+[![Dashboard en vivo](https://img.shields.io/badge/Power_BI-Dashboard_interactivo-F2C811?logo=powerbi&logoColor=black)](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/Dashboard%20-%20An%C3%A1lisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pbix)
+
 [![Memoria PDF](https://img.shields.io/badge/TFM-Memoria_completa_(PDF)-informational)](./Análisis%20Multidimensional%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf)
 
 ---
@@ -16,9 +17,9 @@ El proyecto cubre el ciclo completo: desde la extracción y limpieza de datos br
 
 ## 🎯 Objetivos
 
-- Integrar fuentes de datos dispersas sobre el mercado residencial canario en un modelo de datos único y consultable.
-- Segmentar los municipios según su dinámica de precios mediante clustering no supervisado.
-- Modelar los factores que explican la variación de precios mediante regresión.
+- Integrar fuentes de datos diversas sobre el mercado residencial canario en un modelo de datos único.
+- Segmentar los municipios según variables relevantes mediante clustering (Aprendizaje no supervisado).
+- Descubrir los factores que explican la variación de precios en el mercado residencial de Canarias mediante regresión.
 - Traducir los resultados en un dashboard interactivo que cualquier usuario de negocio pueda explorar sin conocimientos técnicos.
 
 ## 🧱 Arquitectura y metodología
@@ -33,9 +34,7 @@ El proyecto cubre el ciclo completo: desde la extracción y limpieza de datos br
 
 ## 📊 Dashboard
 
-👉 **[Ver dashboard interactivo](TU_ENLACE_AQUI)**
-
-![Vista previa del dashboard](./docs/dashboard_preview.png)
+👉 **[Ver dashboard interactivo](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/Dashboard%20-%20An%C3%A1lisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pbix)**
 
 
 ## 📄 Memoria completa
