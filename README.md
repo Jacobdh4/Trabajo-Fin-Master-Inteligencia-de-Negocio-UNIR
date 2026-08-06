@@ -36,6 +36,7 @@ El proyecto cubre el ciclo completo: desde la extracción y limpieza de datos br
 
 👉 **[Ver dashboard interactivo](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/Dashboard%20-%20An%C3%A1lisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pbix)**
 
+👉 **[Ver vista previa del dashboard](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/2.%20Vista%20Previa%20-%20Dashboard%20-%20An%C3%A1lisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf)**
 
 ## 📄 Memoria completa
 
