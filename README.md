@@ -3,7 +3,7 @@
 **Trabajo de Fin de Máster** — Máster en Inteligencia de Negocio y Análisis de Datos, UNIR
 Autor: **Jacob Delgado Hidalgo** · Calificación: Sobresaliente · 2025–2026
 
-[![Dashboard en vivo](https://img.shields.io/badge/Power_BI-Dashboard_interactivo-F2C811?logo=powerbi&logoColor=black)](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/Dashboard%20-%20An%C3%A1lisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pbix)
+[![Dashboard en vivo](https://img.shields.io/badge/Power_BI-Dashboard_interactivo-F2C811?logo=powerbi&logoColor=black)](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/3.%20Dashboard%20-%20Análisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025)%20-%20copia.pbix)
 
 [![Memoria PDF](https://img.shields.io/badge/TFM-Memoria_completa_(PDF)-informational)](1.%20An%C3%A1lisis%20Multidimensional%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf)
 
@@ -34,7 +34,7 @@ El proyecto cubre el ciclo completo: desde la extracción y limpieza de datos br
 
 ## 📊 Dashboard
 
-👉 **[Ver dashboard interactivo](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/Dashboard%20-%20An%C3%A1lisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pbix)**
+👉 **[Ver dashboard interactivo](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/3.%20Dashboard%20-%20Análisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025)%20-%20copia.pbix)**
 
 👉 **[Ver vista previa del dashboard](https://github.com/Jacobdh4/Trabajo-Fin-Master-Inteligencia-de-Negocio-UNIR/blob/main/2.%20Vista%20Previa%20-%20Dashboard%20-%20An%C3%A1lisis%20del%20Mercado%20Residencial%20en%20Canarias%20(2015-2025).pdf)**
 
