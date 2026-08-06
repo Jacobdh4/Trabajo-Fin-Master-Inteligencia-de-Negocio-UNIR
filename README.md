@@ -45,10 +45,10 @@ códigos de R para clustering, regresión e imputación de datos entre otros
 
 ## 🔍 Principales hallazgos
 
-- El paso del tiempo y la densidad de vivienda vacacional son los factores que más explican el aumento de precios, por encima de la renta o el desempleo.
-- La presión turística, especialmente a través del incremento de viviendas vacacionales, tiene un impacto directo en la reducción de la oferta residencial y el encarecimiento tanto del alquiler como de la compraventa.
-- El análisis por clústeres permite segmentar municipios según su poder adquisitivo y desempleo y adaptar políticas públicas a realidades locales, superando el enfoque de tratar el territorio como un bloque homogéneo.
-- Los modelos predictivos muestran que cada punto porcentual de aumento en la densidad de vivienda vacacional incrementa el precio de compraventa en un 1,34% y el de alquiler en un 0,60%.
+- El paso del tiempo es el factor que más se asocia a las variaciones de los precios. No es el paso del tiempo en sí, sino que oculta variables intrínsecas difícilmente medibles (inflación, falta de oferta de vivienda, suelo urbanizable...)
+- La densidad de vivienda vacacional es la siguiente variable que más se asocia con las variaciones, por encima de la renta o el desempleo.
+- El análisis por clústeres permite segmentar municipios según su poder adquisitivo y tasa de desempleo, superando el enfoque de tratar el territorio como un bloque homogéneo. Se distinguen 3 clústeres (0,49 IS) segmentando los municipios en zonas urbanas; zonas tensionadas y zonas poco diferenciadas.
+- Los modelos predictivos muestran que cada punto porcentual de aumento en la densidad de vivienda vacacional se puede aumentar el precio de compraventa en un 1,34% y el de alquiler en un 0,60%. El paso de los años se asocia con un 5,75% y un 6,38% de aumento, respectivamente.
 
 ## 🛠️ Tecnologías
 
